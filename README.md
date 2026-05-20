@@ -45,10 +45,8 @@ AccountNumber#//#PinCode#//#Name#//#Phone#//#Balance
 - 🏦 Basic banking system operations
 - 🖥️ Example Menu
  
-=========================================
-        Main Menu Screen
-=========================================
-
+    # Main Menu Screen
+========================================
 - [1] 📋 Show Client List
 - [2] ➕ Add New Client
 - [3] ❌ Delete Client
