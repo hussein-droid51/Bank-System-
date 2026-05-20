@@ -48,6 +48,7 @@ AccountNumber#//#PinCode#//#Name#//#Phone#//#Balance
 =========================================
         Main Menu Screen
 =========================================
+
 - [1] 📋 Show Client List
 - [2] ➕ Add New Client
 - [3] ❌ Delete Client
