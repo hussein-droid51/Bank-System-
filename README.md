@@ -8,10 +8,12 @@ This project demonstrates file handling, data structures, and CRUD operations us
 - ✅ Show all clients
 - ✅ Add new clients
 - ✅ Update client information
+- ✅ Transactions: Deposit, withdraw, and view total balances.
 - ✅ Delete clients
 - ✅ Find clients by account number
 - ✅ Store data using text files
 - ✅ Interactive console menu system
+  
 
 # 🛠️ Technologies Used
 - 💻 C++
